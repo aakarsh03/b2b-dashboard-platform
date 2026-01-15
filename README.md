@@ -45,17 +45,3 @@ The platform is designed to be:
 ### Login Page
 ![Login Page](assets/pic2.png)
 
-## 📫 How to Run
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/b2b-dashboard-platform.git
-
-# 2. Navigate to the folder
-cd b2b-dashboard-platform
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the project
-npm start
->>>>>>> db13790 (Add screenshots and update README)
